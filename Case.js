@@ -1,3 +1,5 @@
+//Case
+
 const cource = "Programming Problem Sloving";
 console.log(cource);
 //Lowercase

@@ -1,3 +1,5 @@
+//String
+
 const country = "Bangladesh";
 console.log(typeof (country));
 const distric = 'Moulvibazar';
